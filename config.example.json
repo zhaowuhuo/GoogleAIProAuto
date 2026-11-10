@@ -1,0 +1,19 @@
+{
+  "target_region": "US",
+  "target_plan": "pro_2year_zero",
+  "auto_cancel": true,
+  "proxy_template": "",
+  "floppy_api_key": "",
+  "card": {
+    "number": "",
+    "exp_month": "",
+    "exp_year": "",
+    "cvc": "",
+    "holder": "",
+    "address_line1": "",
+    "postal_code": "97123",
+    "locality": "Portland",
+    "province": "OR"
+  },
+  "accounts": []
+}

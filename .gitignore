@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Playwright 浏览器内核（体积数百 MB，不入库）
+.pw-browsers/
+
+# 浏览器账号配置 / 运行截图（含隐私，不入库）
+profiles/
+screenshots/
+
+# 临时备份
+_backup/
+
+# 本地配置（含卡号、账号密码、2FA 密钥，绝不提交）
+config.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
